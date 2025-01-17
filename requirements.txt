@@ -1,0 +1,13 @@
+bitsandbytes
+transformers
+accelerate
+flash_attn
+wordcloud
+matplotlib
+datasets
+unsloth
+notebook
+jupyter
+ipython
+ipykernel
+qwen-vl-utils
