@@ -19,7 +19,7 @@ This code was run on following machine
     python: 3.11
     cuda: 12.4.1
     pytorch: 2.4.0
-    GPU: RTX-A4000
+    GPU: RTX-A5000
 
 
 ## Reproducing the results
